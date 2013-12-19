@@ -13,10 +13,10 @@ wordlist = [
 "hello",
 "World",
 ]
-tcFile = r"C:\dev\flask\challenge\test.pa"
+tcFile = r"C:\dev\tc-brute-force\test.pa"
 tcProg = r"C:\Program Files\TrueCrypt\TrueCrypt.exe"
 tcMountLetter = "z"
-verbose = 5 # as higher as more output is shown fatal=0-5=trace
+verbose = 4 # as higher as more output is shown fatal=0-5=trace
 counter = 0
 curenttime = time.time()
 
