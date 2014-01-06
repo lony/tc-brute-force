@@ -11,3 +11,4 @@ Python script to brute force TrueCrypt passwords on Windows using TC command lin
 	http://stackoverflow.com/questions/1667528/regular-expression-listing-all-possibilities
 	http://stackoverflow.com/questions/1248519/how-can-i-expand-a-finite-pattern-into-all-its-possible-matches
 - Make multiprocessing work, see TrueCryptBruteForceProcesses.py
+- Get independent from TrueCrypt binary, see MountTC.py
